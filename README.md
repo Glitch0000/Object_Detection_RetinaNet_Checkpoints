@@ -6,7 +6,7 @@ Target data:
 ![image](https://user-images.githubusercontent.com/64538407/113986010-0f357f00-984d-11eb-8bd6-aa985f59dba6.png)
 
 Annotated data:
-لللللللللللل
+للللللل
 
 ![image](https://user-images.githubusercontent.com/64538407/113986162-38560f80-984d-11eb-8d0b-e57346f39439.png)
 
